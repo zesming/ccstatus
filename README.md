@@ -48,7 +48,9 @@ ctx 1M [▓▓▓▓▓▓▓▓▓▒▒▒▒▒░░░░░░░░░░
 
 Paste this into Claude Code:
 
-> Read https://github.com/zesming/ccstatus/blob/main/README.md and install & configure it for me
+```
+Read https://github.com/zesming/ccstatus/blob/main/README.md and install & configure it for me
+```
 
 Claude Code will read the instructions and set everything up for you.
 
