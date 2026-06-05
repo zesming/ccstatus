@@ -1,0 +1,14 @@
+{
+  "name": "ccstatusline-custom",
+  "version": "1.0.0",
+  "description": "A custom two-line Claude Code statusline with context window progress bar",
+  "main": "index.js",
+  "bin": {
+    "ccstatusline-custom": "./index.js"
+  },
+  "scripts": {
+    "preview": "node index.js --preview"
+  },
+  "keywords": ["claude-code", "statusline"],
+  "license": "MIT"
+}
